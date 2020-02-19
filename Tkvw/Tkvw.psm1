@@ -1,0 +1,1 @@
+Import-Module $PSScriptRoot/../Tkvw.Text
